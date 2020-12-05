@@ -20,7 +20,7 @@ M1kk4@outCIDR:~# cat contact.me
 </h1>
 <ul>
   <li><a href ="https://tryhackme.com/p/Mikka">Tryhackme</a></li>
-  <li><a href ="https://twitter.com/Mikka27024761">Twiter</a></li>
+  <li><a href ="https://twitter.com/Mikka27024761">Twitter</a></li>
 </ul>
 
 
