@@ -5,7 +5,7 @@ M1kk4@outCIDR:~# whoami
 <p>I will be posting hacking and programing related stuff.<p>
 <p>Be sure to follow to accompany me on my journey! </p>
 
-< image src="https://tryhackme.com/badge/171666" alt="Try Hack Me" style="max-width: 256px; display: inline" >
+<img src="https://tryhackme.com/badge/171666" alt="Try Hack Me" style="max-width: 256px; display: inline" >
 
  
 
