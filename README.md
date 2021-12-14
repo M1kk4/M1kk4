@@ -5,7 +5,7 @@ M1kk4@outCIDR:~# whoami
 <p>I will be posting hacking and programing related stuff.<p>
 <p>Be sure to follow to accompany me on my journey! </p>
 
- <script src="https://tryhackme.com/badge/171666"></script>
+ https://tryhackme.com/badge/171666
 
 <h1>
 M1kk4@outCIDR:~# stat M1kk4.md
