@@ -7,7 +7,7 @@ M1kk4@outCIDR:~# whoami
 
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Mikka.png" alt="TryHackMe">
+<img src="Mikka.png" alt="TryHackMe">
  
 
 <h1>
