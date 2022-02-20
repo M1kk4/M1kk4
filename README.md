@@ -6,6 +6,7 @@ M1kk4@outCIDR:~# whoami
 <p>Be sure to follow to accompany me on my journey! </p>
 
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Mikka.png" alt="TryHackMe">
 
  
 
